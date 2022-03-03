@@ -1,3 +1,4 @@
+![MyImage](./public/images/screenshot_index_fixed.png)
 # 餐廳清單
 這是一個簡單的網站，列出使用者收集的餐廳，並可以瀏覽餐廳詳細資訊
 
