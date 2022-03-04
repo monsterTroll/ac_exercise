@@ -12,19 +12,28 @@
 ```
 git clone https://github.com/monsterTroll/ac_exercise.git <folder name>
 ```
-2.確認資料夾內檔案齊全後開啟終端機，輸入下列指令以安裝套件
+2.確認資料夾內檔案齊全後開啟終端機，切換到專案資料夾
+```
+cd <folder name>
+```
+3.輸入下列指令以安裝套件
 ```
 npm install
 ```
-3.完成後於終端機輸入
+5.完成後於終端機輸入
 ```
 node app.js 
 ```
-4.若終端機回應此訊息則代表順利運行，打開瀏覽器輸入其回應的網址即可
+如有安裝Nodemon 也可使用 
+```
+nodemon app.js 
+```
+來啟動專案
+6.若終端機回應此訊息則代表順利運行，打開瀏覽器輸入其回應的網址即可
 ```
 Express is running smoothly on http://localhost:3000
 ```
-5.想停止使用於終端機輸入
+7.想停止使用於終端機輸入
 ```
 ctrl + C
 ```
