@@ -20,7 +20,7 @@ cd <folder name>
 ```
 npm install
 ```
-5.完成後於終端機輸入
+5.完成後於終端機輸入以下指令來啟動專案
 ```
 node app.js 
 ```
@@ -28,7 +28,7 @@ node app.js
 ```
 nodemon app.js 
 ```
-來啟動專案
+
 6.若終端機回應此訊息則代表順利運行，打開瀏覽器輸入其回應的網址即可
 ```
 Express is running smoothly on http://localhost:3000
